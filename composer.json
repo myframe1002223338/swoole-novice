@@ -1,0 +1,16 @@
+{
+    "name": "swoole-novice/swoole-novice",
+    "description": "Swoole novice package makes advanced development easy.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liteng",
+            "email": "1002223338@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+          "swoole-novice/swoole-novice":"dev-master"
+      }
+}

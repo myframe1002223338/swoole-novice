@@ -24,6 +24,10 @@ Although the swoole novice package (hereinafter referred to as the novice packag
 
    ​        Delete proc_ Open save and restart the server.
 
+#### Document
+
+Please open and read the development manual after downloading the novice package
+
 #### Copyright Information
 
 Easylt 3 is released in accordance with MIT open source agreement and provides free trial.

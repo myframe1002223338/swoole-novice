@@ -8,7 +8,7 @@ Although the swoole novice package (hereinafter referred to as the novice packag
 
 #### Download and install
 
-1. [http://www.easylt.cn](http://www.easylt.cn)Download directly from the official website. Select the swoole novice package in the technical support novice package series to enter and download.
+1. [https://www.easylt.cn](https://www.easylt.cn)Download directly from the official website. Select the swoole novice package in the technical support novice package series to enter and download.
 
 2. Git download：<code>git clone https://github.com/myframe1002223338/swoole-novice.git</code>
 
@@ -34,6 +34,6 @@ Easylt 3 is released in accordance with MIT open source agreement and provides f
 
 The copyright information of the third-party source code and binary files contained in this project will be marked separately.
 
-Copyright © 2006-2020 by Li Teng ([http://www.easylt.cn ]( http://www.easylt.cn/ )) All rights reserved。
+Copyright © 2006-2020 by Li Teng ([https://www.easylt.cn ]( https://www.easylt.cn/ )) All rights reserved。
 
 See LICENSE for more details

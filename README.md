@@ -9,7 +9,7 @@ Swoole新手包（以下简称新手包）虽名为新手包，但本意是倡�
 
 #### 下载安装
 
-1. [http://www.easylt.cn](http://www.easylt.cn)官网直接下载，在技术支持-新手包系列中选择Swoole新手包进入并下载。
+1. [https://www.easylt.cn](https://www.easylt.cn)官网直接下载，在技术支持-新手包系列中选择Swoole新手包进入并下载。
 
 2. Git下载指令：<code>git clone https://github.com/myframe1002223338/swoole-novice.git</code>
 
@@ -35,6 +35,6 @@ EASYLT 3 遵循MIT开源协议发布，并提供免费试用。
 
 本项目包含的第三方源码和二进制文件之版权信息另行标注。 
 
-版权所有Copyright © 2006-2020 by 李腾 ([http://www.easylt.cn](http://www.easylt.cn/)) All rights reserved。
+版权所有Copyright © 2006-2020 by 李腾 ([https://www.easylt.cn](https://www.easylt.cn/)) All rights reserved。
 
 更多细节参阅 LICENSE

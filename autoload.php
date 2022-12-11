@@ -1,6 +1,7 @@
 <?php
 header('Content-type:text/html;charset=utf-8');
 date_default_timezone_set('Asia/chongqing');
+require_once('src'.DIRECTORY_SEPARATOR.'config'.DIRECTORY_SEPARATOR.'config.php');
 require_once('src'.DIRECTORY_SEPARATOR.'config'.DIRECTORY_SEPARATOR.'config_db.php');
 @require_once('src'.DIRECTORY_SEPARATOR.'config'.DIRECTORY_SEPARATOR.'config_swoole.php');
 use Swoole\Runtime;
@@ -29,6 +30,7 @@ function autoload(){
     require_once('src'.DIRECTORY_SEPARATOR.'Rpc_client.php');
     require_once('src'.DIRECTORY_SEPARATOR.'Process.php');
     require_once('src'.DIRECTORY_SEPARATOR.'Timer.php');
+	require_once('src'.DIRECTORY_SEPARATOR.'Swoole_curl.php');
 }
 spl_autoload_register('autoload');
 
